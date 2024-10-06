@@ -9,6 +9,8 @@ import { useState } from "react";
 import Title from "../components/Title";
 import useWindowWidth from "../hooks/useWindowWidth"; // Import the hook
 
+// first test
+
 const SubNotes = () => {
   const { id } = useParams();
   const navigate = useNavigate();
