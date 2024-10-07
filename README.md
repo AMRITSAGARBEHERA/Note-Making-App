@@ -2,7 +2,7 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Please add Versel.json file for saving after refreshing.
+Please add versel.json file to prevent 404 error after refreshing.
 
 Currently, two official plugins are available:
 
